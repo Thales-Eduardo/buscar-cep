@@ -1,6 +1,6 @@
 # Buscar cep
 
-utilezei a api do CEP Promise.
+utilezei a biblioteca do CEP Promise.
 
 url = https://github.com/BrasilAPI/cep-promise
 
